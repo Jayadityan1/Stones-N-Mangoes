@@ -1,1 +1,2 @@
-# Stones-N-Mangoes
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
